@@ -1,12 +1,12 @@
 # Created By Md. Minhajur Rahman
 
-## Project Name : `The Adidas Server`
-Project Deploy Site For Client side:  \
-Project Deploy Site For Server side: 
+## Project Name : `The Adidas`
+Project Deploy Site For Client side: https://the-adidas-client.vercel.app  \
+Project Deploy Site For Server side: https://the-adidas-server.vercel.app
 
 
-Project Repository Link For Client side: \
-Project Repository Link For Server side: 
+Project Repository Link For Client side: https://github.com/MinhajurRahmanCIS/the-adidas-client \
+Project Repository Link For Server side: https://github.com/MinhajurRahmanCIS/the-adidas-server
 
 # Project Info
 The Adidas Server to manage the get, post, put/patch and delete request.
